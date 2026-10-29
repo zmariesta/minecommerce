@@ -1,0 +1,1 @@
+export default function Loading() { return <div className="page-content"><div className="card card-body">Memuat halaman...</div></div>; }
